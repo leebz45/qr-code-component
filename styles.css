@@ -21,6 +21,7 @@ main {
     background-color: white;
     padding: 1rem;
     border-radius: 1.25rem;
+    box-shadow: 2px 5px 20px #D1D1D1;
 }
 
 img{
